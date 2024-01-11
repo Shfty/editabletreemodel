@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QMLView.qml</file>
+        <file>QMLView.js</file>
+        <file>TestForm.qml</file>
+        <file>QMLTreeItem.qml</file>
+        <file>ExampleForm.qml</file>
+    </qresource>
+</RCC>
